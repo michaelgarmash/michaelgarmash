@@ -2,9 +2,10 @@
 I'm a data analist looking for job
 
 Databases:
-PostgreSQL
+PostgreSQL, DBeaver
 
 Data Analysis:
+- Jupyter Notebook
 - Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, statsmodels, Plotly
 - MS Excel
 - Tableau

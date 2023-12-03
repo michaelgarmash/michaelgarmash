@@ -9,6 +9,7 @@ Data Analysis:
 - Python, Pandas, Numpy, Matplotlib, SciPy, Seaborn, statsmodels, Plotly
 - MS Excel
 - Tableau
+- Datalens
 <!--
 **michaelgarmash/michaelgarmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

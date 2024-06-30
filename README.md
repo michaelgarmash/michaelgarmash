@@ -13,7 +13,7 @@ Data Analysis:
 - Tableau
 - Datalens
 
-моё резюме
+my resume
 - https://vladivostok.hh.ru/resume/8b9a3d12ff0c0d91270039ed1f6a5755596939?hhtmFrom=resume_list
 <!--
 **michaelgarmash/michaelgarmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
